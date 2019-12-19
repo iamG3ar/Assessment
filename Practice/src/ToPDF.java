@@ -20,8 +20,16 @@ public class ToPDF {
             commandList.add(".regular");
             commandList.add(".italic");
             commandList.add(".bold");
-            //
-            commandList.add(String.format("%s %d", ));
+            commandList.add(String.format("%s %d"));
+            /* we have commnd .indent 30
+            if after the first char which is a '.'
+            check if string[1] = 'i';
+            if it is then check if string[4] = 't';
+            if it is then you know this is an indent command
+            meaning after a space " " we can get the number by 
+            which to indent by.
+            */
+            
         }
 
 
