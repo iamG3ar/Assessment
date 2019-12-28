@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27057e28-2095-49ac-a857-d555292363e2" name="Default Changelist" comment="" />
+    <list default="true" id="27057e28-2095-49ac-a857-d555292363e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToPDF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ToPDF.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,19 +20,31 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1SzmOchl22EVppmbmMwc857jOMj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path" value="$USER_HOME$/java-lib" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.ToPDF">
     <configuration name="Temperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Temperature" />
       <module name="Practice" />
@@ -41,8 +59,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ToPDF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToPDF" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ToPDF" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Temperature" />
       </list>
@@ -74,17 +100,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="76" key="SettingsEditor" timestamp="1576587930377">
+    <state x="515" y="232" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1577155134592">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="233" y="76" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1576587930377" />
-    <state x="78" y="46" key="new project wizard" timestamp="1575246189893">
+    <state x="515" y="232" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577155134592" />
+    <state x="528" y="262" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577552618459">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="528" y="262" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577552618459" />
+    <state x="233" y="0" key="SettingsEditor" timestamp="1577157220311">
       <screen x="0" y="0" width="1680" height="969" />
     </state>
-    <state x="78" y="46" key="new project wizard/0.0.1680.969@0.0.1680.969" timestamp="1575246189893" />
-    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1576589252677">
+    <state x="233" y="76" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1576965692469" />
+    <state x="233" y="0" key="SettingsEditor/0.0.1680.969@0.0.1680.969" timestamp="1577157220311" />
+    <state x="493" y="368" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577157210186">
+      <screen x="0" y="0" width="1680" height="969" />
+    </state>
+    <state x="493" y="368" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1680.969@0.0.1680.969" timestamp="1577157210186" />
+    <state x="0" y="46" key="new project wizard" timestamp="1577156206055">
+      <screen x="0" y="0" width="1680" height="969" />
+    </state>
+    <state x="0" y="46" key="new project wizard/0.0.1680.969@0.0.1680.969" timestamp="1577156206055" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1576965700260">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1576589252677" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1576965700260" />
   </component>
 </project>
