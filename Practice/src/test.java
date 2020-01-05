@@ -42,6 +42,7 @@ public class test {
                 System.out.println(line);
                 Paragraph p = new Paragraph(line, bold_font);
                 p.setAlignment(Element.ALIGN_JUSTIFIED);
+                p.setIndentationLeft(2 * 10);
                 output.add(p);
 
             }
